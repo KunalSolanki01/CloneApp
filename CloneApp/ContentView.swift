@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     @State private var username: String = ""
     @State private var password: String = ""
+    // trial for commit
     var body: some View {
         VStack {
             ZStack{
